@@ -17,4 +17,4 @@ identificar cambios estacionales y/o detectar cambios rapidamente y aplicar plan
 - Fórmulas DAX para segmentar diferentes periodos de tiempo.
 - Microsoft Power Point para presentación preliminar del Dashboard.
 
-Gabriel Gallardo
+### Gabriel Gallardo
