@@ -1,6 +1,6 @@
 # Ventas Periodos Segmentados PWBI
 
-## 📊 Ejemplo Aplicacion Pareto Excel
+## 📊 Analisis Ventas en Diferentes Segmentos de Tiempo
 
 A partir de este ejemplo en excel, partiendo de algunos datos recolectados sobre productos defectuosos detectados
 en un proceso de fabricacion, aplicamos el principio de Pareto para determinar que el 20% de algunos produtos (4)
