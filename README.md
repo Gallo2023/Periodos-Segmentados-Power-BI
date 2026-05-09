@@ -11,6 +11,8 @@ de la mayor parte del problema planteado.
 ## 🖼️ Vista previa
 
 <img src="./Imagenes/Portada.PNG" width="500"/>
+<img src="./Imagenes/DashboardPWBI.PNG" width="500"/>
+<img src="./Imagenes/PeriodosSegmentadosPWBI.PNG" width="500"/>
 
 ## 🚀 Tecnologías
 - Microsoft Excel (grafico de pareto y/o grafico de barras combinado adaptado).
